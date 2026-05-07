@@ -55,3 +55,10 @@ Or manually clone into `~/.hermes/skills/productivity/speed-reader/`.
 ## License
 
 MIT
+
+## Related Hermes Skills
+- [hermes-airtable](https://github.com/Marrowleaf/hermes-airtable) — Airtable integration and automation
+- [hermes-budget-tracker](https://github.com/Marrowleaf/hermes-budget-tracker) — Personal budget tracking and analysis
+- [hermes-consensus-engine](https://github.com/Marrowleaf/hermes-consensus-engine) — Multi-model consensus and decision engine
+- [hermes-nano-pdf](https://github.com/Marrowleaf/hermes-nano-pdf) — Lightweight PDF processing and manipulation
+- [hermes-notion](https://github.com/Marrowleaf/hermes-notion) — Notion integration and management
