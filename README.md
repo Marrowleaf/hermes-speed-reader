@@ -1,3 +1,11 @@
+# ⚠️ Archived — Moved to [hermes-skills](https://github.com/Marrowleaf/hermes-skills)
+
+This repository has been consolidated into the **[hermes-skills](https://github.com/Marrowleaf/hermes-skills)** collection.
+
+All functionality remains the same. Please use the consolidated repo going forward.
+
+---
+
 # Speed Reader
 
 > Extract key points from long articles, PDFs, and URLs with configurable summary lengths and automatic Obsidian integration.
